@@ -18,4 +18,6 @@ for j in range(len(arr)):
         
 print(ans)
 
+# https://inf-ege.sdamgia.ru/problem?id=14242
+
 
